@@ -145,7 +145,7 @@ instead of intimidating or extreme.
 
 <div align="center">
 
-## 💙 Built with passion by Sai Ashrita
+## 💙 Built with passion by Saiashrita
 
 *"Movement is for everybody."*
 
